@@ -10,5 +10,10 @@
 
 包含示例如下：
 
-* [在Java中实现常用网络I/O模型](samples/java-io-mode)
+* 在Java中实现常用网络I/O模型
 * 陆续整理中...
+
+
+## 源码
+
+见<https://github.com/waylau/distributed-java>
