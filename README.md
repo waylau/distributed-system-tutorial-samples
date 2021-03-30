@@ -42,6 +42,8 @@
 包含示例源码见<https://github.com/waylau/distributed-java>
 
 
+您也可以上[豆瓣](https://book.douban.com/subject/35391462/)给老卫打Call。
+
 
 ## 如何获取本书
 
